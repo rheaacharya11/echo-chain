@@ -52,10 +52,10 @@ export default function Home() {
     <section className="min-h-screen bg-gray-50 text-gray-900 py-10 px-4">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-3xl font-bold text-center text-indigo-800 mb-2">
-          Textus Latinus
+          EchoChain
         </h1>
         <p className="text-center text-gray-600 mb-8">
-          A Digital Humanities Platform for Classical Latin Texts
+          A Digital Humanities Platform for Classical Latin Texts, built on Blockchain
         </p>
         
         <div className="mb-6">
@@ -80,7 +80,7 @@ export default function Home() {
               </p>
               
               <div className="pt-2 text-xs text-gray-500">
-                Created for Asset Hub Digital Humanities Hackathon 2025
+                Created for EasyA x Harvard Blockchain Hackathon 2025
               </div>
             </div>
           </div>
